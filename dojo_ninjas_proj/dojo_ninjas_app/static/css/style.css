@@ -1,0 +1,5 @@
+.input_form {
+    margin: 150px;
+    display: flex;
+    justify-content: space-around;
+}
